@@ -1,0 +1,7 @@
+streamlit
+selenium
+beautifulsoup4
+pymongo
+python-dotenv
+openai
+webdriver-manager
